@@ -1,0 +1,12 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "Bruno Petrocchi",
+        "email": "bruno.petrocchi@etecbebedouro.com.br"
+    },
+    {
+        "id": 2,
+        "name": "Alunos Etec",
+        "email": "alunos@etecbebedouro.com.br"
+    }]
+}
